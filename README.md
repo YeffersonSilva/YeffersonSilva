@@ -1,16 +1,35 @@
-### Hi there 👋
+# Yefferson Silva - Systems and Technological Solutions Developer
 
-<!--
-**YeffersonSilva/YeffersonSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+Final Semester Student in Systems Analysis and Development, passionate about creating innovative technological solutions that improve people's lives. Committed to excellence in every project, focusing on software development and the implementation of efficient systems.
 
-Here are some ideas to get you started:
+## 💻 Technical Skills
+- **Programming Languages:** Proficient in Node.js, Java, Python, Spring Boot, Kotlin for Android applications.
+- **Web and Mobile Development:** Experienced in dynamic web applications and Android mobile apps.
+- **Infrastructure and Cloud:** Knowledgeable in AWS (EC2, S3, RDS, Lambda).
+  
+![Technologies](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Technologies](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![Technologies](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot)
+![Technologies](https://img.shields.io/badge/Kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Technologies](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Technologies](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🌐 Languages
+- **Spanish:** Native
+- **Portuguese:** Native
+- **English:** Advanced
+
+## 🚀 Projects and Contributions
+- Developed mobile and web applications for sectors like tourism, education, and e-commerce.
+- Contributed to open source projects and collaborated in multidisciplinary teams.
+- Implemented agile development practices.
+
+## 🌍 Professional Objective
+To contribute to the development of software and technological solutions that meet the real needs of users and businesses. Through continuous innovation and constant learning, I aim to be part of projects that not only challenge my technical skills but also have a positive impact on society.
+
+## 📫 Contact
+- **GitHub:** [YeffersonSilva]([https://github.com/yourUsername](https://github.com/YeffersonSilva))
+- **LinkedIn:** [Yefferson Silva Gomez](www.linkedin.com/in/yefferson-silva-gomez-82380b216)
+
+
