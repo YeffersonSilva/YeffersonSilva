@@ -1,7 +1,7 @@
 # Yefferson Silva - Systems and Technological Solutions Developer
 
 ## 🎓 About Me
-Final Semester Student in Systems Analysis and Development, passionate about creating innovative technological solutions that improve people's lives. Committed to excellence in every project, focusing on software development and the implementation of efficient systems.
+I'm a final semester student in Systems Analysis and Development, passionate about creating innovative technological solutions that improve people's lives. Currently, I'm interning as a Jr. Programmer at Compass UOL, focusing on Machine Learning, AWS Cloud Solutions, Node.js, and Python. I'm committed to excellence in every project, with a strong foundation in software development and system implementation.
 
 ## 💻 Technical Skills
 - **Programming Languages:** Proficient in Node.js, Java, Python, Spring Boot, Kotlin for Android applications.
