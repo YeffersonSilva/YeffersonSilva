@@ -29,7 +29,7 @@ I'm a final semester student in Systems Analysis and Development, passionate abo
 To contribute to the development of software and technological solutions that meet the real needs of users and businesses. Through continuous innovation and constant learning, I aim to be part of projects that not only challenge my technical skills but also have a positive impact on society.
 
 ## 📫 Contact
-- **GitHub:** [YeffersonSilva](https://github.com/yourUsername](https://github.com/YeffersonSilva)
+- **GitHub:** [YeffersonSilva](https://github.com/YeffersonSilva)
 - **LinkedIn:** [Yefferson Silva Gomez](https://www.linkedin.com/in/yefferson-silva-gomez-82380b216)
 
 
