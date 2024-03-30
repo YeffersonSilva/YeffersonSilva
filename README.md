@@ -6,7 +6,7 @@ I'm a final semester student in Systems Analysis and Development, passionate abo
 ## 💻 Technical Skills
 - **Programming Languages:** Proficient in Node.js, Java, Python, Spring Boot, Kotlin for Android applications.
 - **Web and Mobile Development:** Experienced in dynamic web applications and Android mobile apps.
-- **Infrastructure and Cloud:** Knowledgeable in AWS (EC2, S3, RDS, Lambda).
+- **Infrastructure and Cloud:** Knowledgeable in AWS (EC2, S3, RDS, Lambda, SageMaker).
   
 ![Technologies](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Technologies](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white)
