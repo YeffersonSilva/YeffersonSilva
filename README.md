@@ -48,7 +48,8 @@ To contribute to the development of software and technological solutions that me
 - **LinkedIn:** [Yefferson Silva Gomez](https://www.linkedin.com/in/yefferson-silva-gomez-82380b216)
 - **Email:** yeffersonsilvagomez@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YeffersonSilva&theme=dark&background=000000)](https://git.io/streak-stats)
-![Yefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeffersonsilva&show_icons=true&theme=radical)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YeffersonSilva&theme=default)](https://git.io/streak-stats)
 
 
