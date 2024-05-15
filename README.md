@@ -1,5 +1,7 @@
 # Yefferson Silva - Systems and Technological Solutions Developer
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C4B3&lines=Welcome+to+my+Profile!;I'm+a+Systems+Developer;Creating+Innovative+Solutions;Passionate+about+Technology)
+
 ## 🎓 About Me
 I'm a final semester student in Systems Analysis and Development, passionate about creating innovative technological solutions that improve people's lives. Currently, I'm interning as a Jr. Programmer at Compass UOL, focusing on Machine Learning, AWS Cloud Solutions, Node.js, and Python. I'm committed to excellence in every project, with a strong foundation in software development and system implementation.
 
@@ -41,5 +43,4 @@ To contribute to the development of software and technological solutions that me
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YeffersonSilva&theme=default)](https://git.io/streak-stats)
-
 
