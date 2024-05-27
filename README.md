@@ -1,4 +1,4 @@
-# Yefferson Silva - Systems and Technological Solutions Developer
+# [Yefferson Silva - Systems and Technological Solutions Developer](https://yeffersonsilva.github.io/YeffersonSilva.github.oi/)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C4B3&lines=Welcome+to+my+Profile!;I'm+a+Systems+Developer;Creating+Innovative+Solutions;Passionate+about+Technology)
 
@@ -16,17 +16,7 @@ I'm a final semester student in Systems Analysis and Development, passionate abo
 ![Technologies](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Technologies](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-
-
-
-
-
-
-
-
-
-
-  ## 🌐 Languages
+## 🌐 Languages
 - **Spanish:** Native
 - **Portuguese:** Native
 - **English:** Advanced
@@ -38,9 +28,6 @@ To contribute to the development of software and technological solutions that me
 - **GitHub:** [YeffersonSilva](https://github.com/YeffersonSilva)
 - **LinkedIn:** [Yefferson Silva Gomez](https://www.linkedin.com/in/yefferson-silva-gomez-82380b216)
 - **Email:** yeffersonsilvagomez@gmail.com
--  **Email:** https://yeffersonsilva.github.io/YeffersonSilva.github.oi/
-
-
+- **Portfolio:** [https://yeffersonsilva.github.io/YeffersonSilva.github.oi/](https://yeffersonsilva.github.io/YeffersonSilva.github.oi/)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YeffersonSilva&theme=default)](https://git.io/streak-stats)
-
