@@ -3,8 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C4B3&lines=Welcome+to+my+Profile!;I'm+a+Systems+Developer;Creating+Innovative+Solutions;Passionate+about+Technology)
 
 ## 🎓 About Me
-I'm a final semester student in Systems Analysis and Development, passionate about creating innovative technological solutions that improve people's lives. Currently, I'm interning as a Jr. Programmer at Compass UOL, focusing on Machine Learning, AWS Cloud Solutions, Node.js, and Python. I'm committed to excellence in every project, with a strong foundation in software development and system implementation.
-
+I’m Yefferson, a Full Stack Developer with experience in Java, React, and object-oriented programming. I hold a degree in Systems Analysis and Development from UTEC Uruguay and IFSul Brazil, with solid expertise in both back-end and front-end technologies, including Node.js, Spring, and Docker. Fluent in Spanish, Portuguese, and with advanced English, I’m dedicated to innovation, process optimization, and continuous learning, always striving to contribute effectively in multicultural teams.
 ## 💻 Technical Skills
   
 ![Technologies](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
