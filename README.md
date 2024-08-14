@@ -1,4 +1,4 @@
-# [Yefferson Silva - Systems and Technological Solutions Developer](https://yeffersonsilva.github.io/YeffersonSilva.github.oi/)
+# [Yefferson Silva - Full Stack Developer](https://yeffersonsilva.github.io/YeffersonSilva.github.oi/)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C4B3&lines=Welcome+to+my+Profile!;I'm+a+Systems+Developer;Creating+Innovative+Solutions;Passionate+about+Technology)
 
@@ -15,6 +15,9 @@ I’m Yefferson, a Full Stack Developer with experience in Java, React, and obje
 ![Technologies](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Technologies](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Technologies](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+
 
 
 ## 🌍 Professional Objective
