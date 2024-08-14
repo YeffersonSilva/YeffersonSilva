@@ -14,11 +14,8 @@ I’m Yefferson, a Full Stack Developer with experience in Java, React, and obje
 ![Technologies](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Technologies](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Technologies](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Technologies](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## 🌐 Languages
-- **Spanish:** Native
-- **Portuguese:** Native
-- **English:** Advanced
 
 ## 🌍 Professional Objective
 To contribute to the development of software and technological solutions that meet the real needs of users and businesses. Through continuous innovation and constant learning, I aim to be part of projects that not only challenge my technical skills but also have a positive impact on society.
