@@ -19,6 +19,6 @@ I’m Yefferson, a Full Stack Developer with experience in Node.js, React, and N
 - **GitHub:** [YeffersonSilva](https://github.com/YeffersonSilva)
 - **LinkedIn:** [Yefferson Silva Gomez](https://www.linkedin.com/in/yefferson-silva-gomez-82380b216)
 - **Email:** yeffersonsilvagomez@gmail.com
-- **Portfolio:** [https://yeffersonsilvagithuboi-production.up.railway.app/](https://portfolio-psi-livid-42.vercel.app/)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YeffersonSilva&theme=default)](https://git.io/streak-stats)
